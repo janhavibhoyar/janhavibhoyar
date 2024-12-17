@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Janhavi<br>## Backend Developer | Cloud Enthusiast <br>### About Me<br>- 💻 Backend developer with experience in **web development, machine learning, and cloud computing**<br>- 🌱 Currently learning **advanced cloud security architectures**<br>- 🛠️ Projects: **ML Model Builder**,**Crop & Fertilizer Recommendation System**, **FossilMap**, **Flappy Bird Game in Java**<br>### Tech Stack<br>- **Languages**: Java, Python, SQL, ReactJS<br>- **Frameworks & Libraries**: Streamlit, Pandas, scikit-learn, Django<br>- **Tools & Platforms**: Docker, Kubernetes, Google App Engine<br>- **Cloud**: AWS, Google Cloud Platform (GCP)<br>- **Specialties**: Data Visualization, Agile Methodologies<br><br>
+Hi there 👋, I'm Janhavi<br>Backend Developer | Cloud Enthusiast <br>About Me<br>- 💻 Backend developer with experience in **web development, machine learning, and cloud computing**<br>- 🌱 Currently learning **advanced cloud security architectures**<br>- 🛠️ Projects: **ML Model Builder**,**Crop & Fertilizer Recommendation System**, **FossilMap**, **Flappy Bird Game in Java**<br>Tech Stack<br>- **Languages**: Java, Python, SQL, ReactJS<br>- **Frameworks & Libraries**: Streamlit, Pandas, scikit-learn, Django<br>- **Tools & Platforms**: Docker, Kubernetes, Google App Engine<br>- **Cloud**: AWS, Google Cloud Platform (GCP)<br>- **Specialties**: Data Visualization, Agile Methodologies<br><br>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=janhavibhoyar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
